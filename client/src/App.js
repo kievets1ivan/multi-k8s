@@ -11,7 +11,7 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            I'm running, Sanya:DDDD
+            Kuber, Sanya:DDDD
           </p>
           <a
             className="App-link"
